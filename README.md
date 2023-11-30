@@ -1,13 +1,13 @@
 # Mi
 
-Real-DOM diff + tagged template string. Local state free. 929 bytes **un**compressed.
+Real-DOM diff + tagged template string. Local state free. 933 bytes **uncompressed**.
 
 Try it out on [JS Bin](https://jsbin.com/bazopiv/edit?html,js,output).
 
 ## Install
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/audinue/mi/mi.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/audinue/mi@1.0.0/mi.min.js"></script>
 ```
 
 ## Usage
