@@ -35,7 +35,7 @@
           _curr,
           _next
         ) =>
-          curr.nodeName !== next.nodeName && curr.replaceWith(next)
+          curr.nodeName !== next.nodeName && (curr.replaceWith(next), 1)
           || curr.nodeType === 3 && curr.data !== next.data && (curr.data = next.data)
           || curr.nodeType === 1 && (
             [...next.attributes].map(
