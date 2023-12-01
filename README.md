@@ -1,6 +1,6 @@
 # Mi
 
-Real-DOM diff + tagged template string. Local state free. 933 bytes **uncompressed**.
+Real-DOM diff + tagged template string. Local state free. 951 bytes **uncompressed**.
 
 Try it out on [JS Bin](https://jsbin.com/bazopiv/edit?js,output).
 
