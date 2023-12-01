@@ -7,7 +7,7 @@ Try it out on [JS Bin](https://jsbin.com/bazopiv/edit?js,output).
 ## Install
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/audinue/mi@1.0.0/mi.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/audinue/mi@1.1.0/mi.min.js"></script>
 ```
 
 ## Usage
